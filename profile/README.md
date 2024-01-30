@@ -3,19 +3,22 @@
 ### Blockchain and financial service provider
 
 
-How much do you know about modern investments?
-The world is constantly changing, and Cryptocurrencies have revolutionized global
-transactions, investment methods, and the future of the economy.
-To experience this revolutionary market, you need a secure and professional platform.
-sarmayex goal is to make Cryptocurrency transactions available to Iran and the world's users
-in a safe and fast way with its diverse and innovative services.
-Sarmayex offers a wide range of services:
- - Crypto Trading
-In the largest digital currency market in the country, users have the opportunity to trade more
-than 250 different cryptocurrencies in a secure and professional platform
- - Swap
-Currency conversion can be costly, but with sarmayex swap, users can convert their
-currencies to other Cryptocurrencies using the best rates and with the fastest time.
-24/7 customer service
-Every day and at any time, Sarmayex support is ready to answer users' questions and solve
-problems. With sarmayex, you experience a hassle-free investment
+Welcome to Sarmayex, your gateway to a revolutionary blockchain ecosystem! At Sarmayex, we are committed to empowering individuals worldwide, fostering financial freedom regardless of background or location. Our vision is to facilitate seamless cryptocurrency transactions for users in Iran and across the globe, ensuring safety, speed, and innovation in every aspect of our services.
+
+**Our Product Suite:**
+1. **Sarmayex Digital Asset Exchange:**
+    - Our pride and joy, the largest digital asset exchange, providing a comprehensive platform for users to earn, hold, spend, share, and give their money with unparalleled ease.
+
+2. **Sarmayex OTC and P2P Platform:**
+    - Catering to both private and institutional clients, our OTC and P2P platform combine professional services with cutting-edge technology, ensuring a seamless and secure trading experience.
+
+3. **Public Data Accessibility:**
+    - To enhance user experience, we've made our Kline, Trade, and AggTrade data easily accessible. Users can effortlessly download our public data, featuring both daily and monthly intervals for each pair.
+
+4. **Timely Data Updates:**
+    - Stay ahead with our timely data updates. Daily data is uploaded promptly on the following day, while monthly data is made available from the beginning of the subsequent month.
+
+5. **Seamless Settlement:**
+    - Enjoy hassle-free settlement across all trade types directly into your existing wallets, providing a secure and efficient way to manage your cryptocurrency transactions.
+
+At Sarmayex, we believe in fostering financial inclusion and providing a platform where everyone can participate in the exciting world of cryptocurrencies. Join us on this journey towards a future where financial opportunities know no boundaries!
